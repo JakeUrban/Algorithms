@@ -2,7 +2,7 @@
 This repository is deticated to any algorithms I have programmed in any language.
 
 # Includes
-Directed Acyclic Graph Alorthims:
+Directed Acyclic Graph Alorthims (C++):
  - Topological Sort
  - Shortest Path
  - Longest Path
