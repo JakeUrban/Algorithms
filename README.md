@@ -9,6 +9,6 @@ Directed Acyclic Graph Alorthims (C++):
  - Number of Unique Paths
 
 Dynamic Programming
- - SplitWordsIntoWords
+ - SplitWordsIntoWords (Java)
     - Takes continuous strings of characters and trys to split them into words
     - Command line: java SplitWordsIntoWords < inMed.txt
