@@ -16,7 +16,7 @@ public class SplitStringIntoWords {
 		for(int i = start; i < inString.length(); i++) {
 			buff = buff + inString.charAt(i);
 
-			if(!memo.contains(i) && dictionary.contains(buff)) {		//If this split hasn't returned null before and inDictionary=true
+			if(!memo.contains(inString.substring(i)) && dictionary.contains(buff)) {		//If this split hasn't returned null before and inDictionary=true
 
 				String result = recursiveSolution(inString,i+1,memo);
 				
