@@ -8,6 +8,10 @@ Directed Acyclic Graph Alorthims (C++):
  - Longest Path
  - Number of Unique Paths
 
+String Sorting (Java):
+ - Mergesort
+ - Quicksort
+
 Dynamic Programming
  - SplitWordsIntoWords (Java)
     - Takes continuous strings of characters and trys to split them into words
