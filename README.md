@@ -16,3 +16,6 @@ Dynamic Programming
  - SplitWordsIntoWords (Java)
     - Takes continuous strings of characters and trys to split them into words
     - Command line: java SplitWordsIntoWords < inMed.txt
+
+Data Analytics
+- K-means Clustering (Python)
